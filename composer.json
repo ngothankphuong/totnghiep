@@ -1,0 +1,7 @@
+{
+    "require": {
+        "wisembly/elephant.io": "^3.3",
+        "cboden/ratchet": "^0.4.4",
+        "ratchet/pawl": "^0.4.1"
+    }
+}

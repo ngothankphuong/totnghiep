@@ -1,0 +1,108 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,800);
+ @font-face {
+  font-family: Desirable;
+  src: url(../Fonts/UTM-Diana.ttf);
+  
+
+}
+figure.snip1197 {
+  font-family: 'Raleway', Arial, sans-serif;
+  display: flex;
+  position: relative;
+  margin: 80px;
+  min-width: 300px;
+  max-width: 600px;
+  width: 100%;
+  color: #333;
+  text-align: left;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  border-radius: 8px 8px 8px 8px;
+}
+figure.snip1197 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+figure.snip1197 img {
+	
+  float: right;
+  max-width: 30%;
+  vertical-align: middle;
+  border-radius: 0 8px 8px 0;
+  max-height: 160px;
+}
+
+figure.snip1197 .img {
+
+  float: right;
+  max-width: 30%;
+  vertical-align: middle;
+  border-radius: 0 8px 8px 0;
+  
+}
+figure.snip1197 figcaption {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 70%;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 8px 0 0 8px;
+}
+figure.snip1197 blockquote {
+  position: relative;
+  padding: 25px 25px 25px 45px;
+  font-size: 1.2em;
+  font-weight: 500;
+  text-align: left;
+  margin: 0;
+  line-height: 1.6em;
+  font-family: Desirable !important;
+}
+figure.snip1197 blockquote:before,
+figure.snip1197 blockquote:after {
+  content: "\201C";
+  position: absolute;
+  font-size: 50px;
+  opacity: 0.3;
+  font-style: normal;
+}
+figure.snip1197 blockquote:before {
+  top: 25px;
+  left: 20px;
+}
+figure.snip1197 blockquote:after {
+  content: "\201D";
+  right: 20px;
+  bottom: 0px;
+}
+figure.snip1197 .arrow {
+  top: 30px;
+  left: 100%;
+  width: 0;
+  height: 0;
+  border-left: 0 solid transparent;
+  border-right: 25px solid transparent;
+  border-top: 25px solid #ffffff;
+  margin: 0;
+  position: absolute;
+}
+figure.snip1197 .author {
+  position: absolute;
+  top: 100%;
+  width: 60%;
+  padding: 10px 15px;
+  
+  margin: 0;
+  text-transform: uppercase;
+}
+figure.snip1197 .author h5 {
+  opacity: 0.8;
+  margin: 0;
+  font-weight: 800;
+}
+figure.snip1197 .author h5 span {
+  font-weight: 400;
+  text-transform: none;
+  padding-left: 5px;
+}
